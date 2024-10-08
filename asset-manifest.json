@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-todo/static/css/main.a4eae2df.css",
+    "main.js": "/react-todo/static/js/main.882ecf5f.js",
+    "static/js/453.37753ddd.chunk.js": "/react-todo/static/js/453.37753ddd.chunk.js",
+    "static/media/baloopaaji2-regular-webfont.woff": "/react-todo/static/media/baloopaaji2-regular-webfont.6ee69e188829bb6058e9.woff",
+    "static/media/baloopaaji2-regular-webfont.woff2": "/react-todo/static/media/baloopaaji2-regular-webfont.02d4c6e5ab2a27544ab2.woff2",
+    "static/media/delete.svg": "/react-todo/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "index.html": "/react-todo/index.html",
+    "static/media/revert.svg": "/react-todo/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "static/media/plus.svg": "/react-todo/static/media/plus.19bbb341fb5456e964a1569924f69873.svg",
+    "static/media/tick-green.svg": "/react-todo/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.a4eae2df.css.map": "/react-todo/static/css/main.a4eae2df.css.map",
+    "main.882ecf5f.js.map": "/react-todo/static/js/main.882ecf5f.js.map",
+    "453.37753ddd.chunk.js.map": "/react-todo/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4eae2df.css",
+    "static/js/main.882ecf5f.js"
+  ]
+}
